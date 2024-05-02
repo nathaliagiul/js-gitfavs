@@ -1,1 +1,1 @@
-# js-gitfavs
+# Gitfav
